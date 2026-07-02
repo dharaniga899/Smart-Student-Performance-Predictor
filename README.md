@@ -69,3 +69,5 @@ AI & Machine Learning Student
 
 ## 📄 License
 This project is licensed under the MIT License.
+## Live Demo
+Try the app here: https://huggingface.co/spaces/dharaniga123/student-performance-predictor
