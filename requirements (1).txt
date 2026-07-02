@@ -1,0 +1,4 @@
+gradio
+pandas<3
+numpy
+scikit-learn
